@@ -1,0 +1,1 @@
+Modeling the structure of a table of data concerning the cars on sale by a dealer.
