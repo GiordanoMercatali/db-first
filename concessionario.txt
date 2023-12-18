@@ -1,0 +1,17 @@
+id:
+brand:
+model:
+country:
+year:
+engine:
+horsepower:
+length:
+width:
+height:
+weight:
+wheelbase:
+number_of_doors:
+color:
+has_parking_sensors:
+has_parking_camera:
+is_last:
